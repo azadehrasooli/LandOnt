@@ -1,10 +1,10 @@
 development:
-  adapter: sqlite3
+  adapter: postgresql
   encoding: unicode
   database: login
   pool: 5
-  username: landontwith
-  password: password1
+  username: azadeh_rasooli
+  password: azadeh1366
 
 test:
   adapter: postgresql
